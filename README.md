@@ -1,4 +1,4 @@
-This is a DataCamp guided project and the data is supplied by DataCamp
+This is a DataCamp guided project and the data was supplied by DataCamp
 
 Project Tasks
 1. Loading your friend's data into a dictionary
