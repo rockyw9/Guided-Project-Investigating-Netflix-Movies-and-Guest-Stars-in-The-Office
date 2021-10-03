@@ -1,6 +1,6 @@
 Investigating Netflix Movies and GUest Stars in The Office - Guided Project
 
-This is a DataCamp guided project and the data was supplied by DataCamp
+This is a DataCamp guided project and the data was supplied by DataCamp.
 
 Project Tasks
 1. Loading data into a dictionary
